@@ -1,7 +1,16 @@
-This one is going to be merged and this is file no 1 
+
+This one is going to be merged and this is file no 1
 created by person 1
 
 
 
-will raise conflicts definitely 
+will raise conflicts definitely
+
+hey there this is newly created file 1
+
+will be used to raise conflicts
+created by person 2.
+
+
+
 lets see what happens.
