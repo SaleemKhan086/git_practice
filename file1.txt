@@ -1,0 +1,7 @@
+This one is going to be merged and this is file no 1 
+created by person 1
+
+
+
+will raise conflicts definitely 
+lets see what happens.
